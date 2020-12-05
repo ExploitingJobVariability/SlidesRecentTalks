@@ -10,5 +10,4 @@
     [Saving Energy By Tuning Processor Speed in Real-Time Systems.](https://gitlab.inria.fr/splassar/slides-of-recent-talks/-/raw/master/Mai2020.pdf?inline=true)
 
 * November 2019, Angers, France - *MSR2019* :  
-    [Choix de Vitesses pour la Minimisation de la Consommation d’Energie Hors-Ligne en O(n).](https://gitlab.inria.fr/splassar/slides-of-recent-talks/-/raw/master/Mai2020.pdf?inline=true)
-
+    [Choix de Vitesses pour la Minimisation de la Consommation d’Energie Hors-Ligne en O(n).](https://raw.githubusercontent.com/ExploitingJobVariability/SlidesRecentTalks/main/MSRSlides2019.pdf?inline=true)
