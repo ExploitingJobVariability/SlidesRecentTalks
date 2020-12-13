@@ -12,5 +12,5 @@
 * November 2019, Angers, France - *MSR2019* :  
     [Choix de Vitesses pour la Minimisation de la Consommation d’Energie Hors-Ligne en O(n).](https://raw.githubusercontent.com/ExploitingJobVariability/SlidesRecentTalks/main/MSRSlides2019.pdf?inline=true)
     
-* August 2017, Paris, Poster Real-Time Summer School - *ETR‘17* :
+* August 2017, Paris, Poster Real-Time Summer School - *ETR‘17* :  
     [Sélection en ligne de la vitesse minimisant l’énergie dans les systèmes temps-réels.](https://raw.githubusercontent.com/ExploitingJobVariability/SlidesRecentTalks/main/PosterEcoleEte.pdf?inline=true)
