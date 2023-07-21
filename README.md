@@ -1,5 +1,6 @@
 # Slides of recent talks
 
+
 * September 2020, Krakow, Poland - *EBCCSP2020* :  
 		[Discrete and Continuous Optimal Control for Energy Minimization in Real-Time Systems.](https://raw.githubusercontent.com/ExploitingJobVariability/SlidesRecentTalks/main/SlidesEBCCSP2020.pdf?inline=true)
 		
